@@ -8,8 +8,8 @@
 
 🎁 Contains documents for generation art images (GAN, StyleGAN, VAE, SD, SDXL, Lora, ControlNet)
 
- # [![](https://img.shields.io/badge/Document-Link-0075ff)](https://arxiv.org/pdf/2302.05543.pdf) [![](https://img.shields.io/badge/Group-Support-0075ff)](https://www.facebook.com/groups/stablediffusion.vn) [![](https://img.shields.io/badge/Version-v2.0-0075ff)](https://stablediffusion.vn/update/) [![](https://img.shields.io/badge/Code-Github-red)](https://github.com/Stability-AI/stablediffusion)
-
+# [![](https://img.shields.io/badge/Paper-Link-0075ff)](https://arxiv.org/pdf/2302.05543.pdf) [![](https://img.shields.io/badge/Group-Support-0075ff)](https://github.com/trungtruc123/Control-StableDiffusion/issues) [![](https://img.shields.io/badge/Version-v2.0-0075ff)](https://stablediffusion.vn/update/) [![](https://img.shields.io/badge/Demo-Colab-red)](https://colab.research.google.com/drive/18atShssVe2bw2IKav16Oh5E36cHiMu0f?authuser=2#scrollTo=G9xi7wIfZB9P)
+# [![](https://img.shields.io/badge/Tutorial%20Install-Link-green)]() [![](https://img.shields.io/badge/Download%20Data-Drive-pink)](https://drive.google.com/drive/u/2/folders/16e7YxDTuTPe7hOWGoTM-A_1xA6FznZnK) 
 ## 💬 Where to ask questions
 Please use our dedicated channels for questions and discussion. Help is much more valuable if it's shared publicly so that more people can benefit from it.
 
@@ -38,6 +38,7 @@ Please use our dedicated channels for questions and discussion. Help is much mor
 ## 🔗 Architecture ControlNet + StableDiffusion
 ControlNet is a neural network structure to control diffusion models by adding extra conditions.
 <img src="https://github.com/trungtruc123/Control-StableDiffusion/blob/develop/images/cn.png"/>
+
 By repeating the above simple structure 14 times, we can control stable diffusion in this way:
 <img src="https://github.com/trungtruc123/Control-StableDiffusion/blob/develop/images/sd.png"/>
 
