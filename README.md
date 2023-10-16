@@ -8,8 +8,16 @@
 
 🎁 Contains documents for generation art images (GAN, StyleGAN, VAE, SD, SDXL, Lora, ControlNet)
 
+🎁 You can use Control-StableDiffusion to, to name a few:
+- Specify human poses.
+- Copy the composition from another image.
+- Generate a similar image.
+- Turn a scribble into a professional image.
+
 # [![](https://img.shields.io/badge/Paper-Link-0075ff)](https://arxiv.org/pdf/2302.05543.pdf) [![](https://img.shields.io/badge/Group-Support-0075ff)](https://github.com/trungtruc123/Control-StableDiffusion/issues) [![](https://img.shields.io/badge/Version-v2.0-0075ff)](https://stablediffusion.vn/update/) [![](https://img.shields.io/badge/Demo-Colab-red)](https://colab.research.google.com/drive/18atShssVe2bw2IKav16Oh5E36cHiMu0f?authuser=2#scrollTo=G9xi7wIfZB9P)
 # [![](https://img.shields.io/badge/Tutorial%20Install-Link-green)]() [![](https://img.shields.io/badge/Download%20Data-Drive-pink)](https://drive.google.com/drive/u/2/folders/16e7YxDTuTPe7hOWGoTM-A_1xA6FznZnK) 
+# [![](https://img.shields.io/badge/Tutorial%20Stable%20Diffusion-Link-blue)](https://stable-diffusion-art.com/category/tutorials/)
+
 ## 💬 Where to ask questions
 Please use our dedicated channels for questions and discussion. Help is much more valuable if it's shared publicly so that more people can benefit from it.
 
