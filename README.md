@@ -59,17 +59,66 @@ By repeating the above simple structure 14 times, we can control stable diffusio
 - Generative model SD:[github](https://github.com/Stability-AI/generative-models)
 - Stable Diffusion WebUI: [github](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-### ControlNet
-- ControlNet: [paper](https://arxiv.org/pdf/2302.05543.pdf)
+- F222
+- DreamShaper
+- Inkpunk Diffusion
+- Instruct pix2pix
+- LoRA
+- 
+## Extensions Available
+### IP-Adapter (New 10/2023)
+The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.
 
-### Attention Methods
-- Guided Attention: [paper](https://arxiv.org/abs/1710.08969)
-- Forward Backward Decoding: [paper](https://arxiv.org/abs/1907.09006)
-- Dynamic Convolutional Attention: [paper](https://arxiv.org/pdf/1910.10288.pdf)
+[paper](https://arxiv.org/abs/2308.06721)
+[github](https://github.com/tencent-ailab/IP-Adapter)
 
-### GAN
-- GAN [paper]()
-- StyleGAN [paper]()
+### ControlNet 
+ControlNet is a neural network structure to control diffusion models by adding extra conditions.
+
+[paper](https://arxiv.org/abs/2302.05543)
+[github](https://github.com/Luis-kleinfeld/ControlNet)
+[tutorial](https://stable-diffusion-art.com/controlnet/?_gl=1*1t62rr3*_ga*MTEwMzQ0NjYyMS4xNjk3NDczMjk1*_ga_YHRX2WJZH7*MTY5NzQ3MzI5Ni4xLjEuMTY5NzQ3NTE2Ny42MC4wLjA.)
+[ControlNet+ SDXL](https://stable-diffusion-art.com/controlnet-sdxl/?_gl=1*3m7ttk*_ga*MTEwMzQ0NjYyMS4xNjk3NDczMjk1*_ga_YHRX2WJZH7*MTY5NzQ3MzI5Ni4xLjEuMTY5NzQ3NTE2Ny42MC4wLjA.)
+
+### Deforum
+Deforum is a tool to create animation videos with Stable Diffusion. All you need to provide the prompts and settings for how the camera moves.
+
+[tutorial](https://stable-diffusion-art.com/deforum/?_gl=1*3m7ttk*_ga*MTEwMzQ0NjYyMS4xNjk3NDczMjk1*_ga_YHRX2WJZH7*MTY5NzQ3MzI5Ni4xLjEuMTY5NzQ3NTE2Ny42MC4wLjA.)
+
+### Regional Prompter
+Do you know you can specify the prompts for different regions of an image? You can do that on AUTOMATIC1111 with the Regional Prompter extension.
+
+[github](https://github.com/hako-mikan/sd-webui-regional-prompter)
+### Ultimate SD Upscale
+Do you want to create large images with Stable Diffusion with a lot of details? You will need to use an upscaler. In this post, you will learn 3 methods to upscale images.
+- AI upscalers
+- SD upscale
+- ControlNet tile upscale
+
+[tutorial](https://stable-diffusion-art.com/controlnet-upscale/?_gl=1*1singjt*_ga*MTEwMzQ0NjYyMS4xNjk3NDczMjk1*_ga_YHRX2WJZH7*MTY5NzQ3MzI5Ni4xLjEuMTY5NzQ3NTE2Ny42MC4wLjA.)
+### Openpose Editor
+
+### After Detailer
+[tutorial](https://stable-diffusion-art.com/adetailer/?_gl=1*48zyz2*_ga*MTEwMzQ0NjYyMS4xNjk3NDczMjk1*_ga_YHRX2WJZH7*MTY5NzQ3MzI5Ni4xLjEuMTY5NzQ3NTE2Ny42MC4wLjA.)
+
+### AnimateDiff
+Text-to-video is the challenging task of turning a text description into a video. Diffusion-based text-to-video model is improving at a rapid speed. Now, these models become usable and can be run locally on your machine. In this post, you will learn a few ways to convert a text prompt to a video.
+- AnimateDiff
+- ModelScope
+- Deforum
+
+[tutorial](https://stable-diffusion-art.com/text-to-video/?_gl=1*199e74w*_ga*MTEwMzQ0NjYyMS4xNjk3NDczMjk1*_ga_YHRX2WJZH7*MTY5NzQ3MzI5Ni4xLjEuMTY5NzQ3NTE2Ny42MC4wLjA.)
+### text2video
+[tutorial](https://stable-diffusion-art.com/text-to-video/?_gl=1*1mtbhyt*_ga*MTEwMzQ0NjYyMS4xNjk3NDczMjk1*_ga_YHRX2WJZH7*MTY5NzQ3MzI5Ni4xLjEuMTY5NzQ3NTE2Ny42MC4wLjA.)
+
+### Roop 
+Are you looking for ways to generate consistent faces across multiple images with Stable Diffusion? You may be working on illustrations of a storybook or a comic strip. In this post, you will find 3 methods to generate consistent faces.
+
+- Multiple celebrity names
+- The Roop extension
+- Dreambooth
+
+[tutorial](https://stable-diffusion-art.com/consistent-face/?_gl=1*1mtbhyt*_ga*MTEwMzQ0NjYyMS4xNjk3NDczMjk1*_ga_YHRX2WJZH7*MTY5NzQ3MzI5Ni4xLjEuMTY5NzQ3NTE2Ny42MC4wLjA.)
 
 You can also help us implement more models.
 
