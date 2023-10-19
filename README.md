@@ -58,13 +58,13 @@ By repeating the above simple structure 14 times, we can control stable diffusio
 - Stable Diffusion: [paper](https://arxiv.org/pdf/2112.10752.pdf) [github](https://github.com/Stability-AI/StableDiffusion)
 - Generative model SD:[github](https://github.com/Stability-AI/generative-models)
 - Stable Diffusion WebUI: [github](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-
+- DALL-E (Open AI): [tutorial](https://openai.com/dall-e-2)
 - F222
 - DreamShaper
 - Inkpunk Diffusion
 - Instruct pix2pix
 - LoRA
-- 
+- Tool custom pose: [tool](https://webapp.magicposer.com/)
 ## Extensions Available
 ### IP-Adapter (New 10/2023)
 The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.
@@ -94,6 +94,7 @@ Do you want to create large images with Stable Diffusion with a lot of details? 
 - AI upscalers
 - SD upscale
 - ControlNet tile upscale
+- T2I adapters (are neural network models for providing extra controls to image generations of diffusion models. They are conceptually similar to ControlNet but with a different design.)
 
 [tutorial](https://stable-diffusion-art.com/controlnet-upscale/?_gl=1*1singjt*_ga*MTEwMzQ0NjYyMS4xNjk3NDczMjk1*_ga_YHRX2WJZH7*MTY5NzQ3MzI5Ni4xLjEuMTY5NzQ3NTE2Ny42MC4wLjA.)
 ### Openpose Editor
