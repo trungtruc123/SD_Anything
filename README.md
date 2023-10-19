@@ -58,7 +58,7 @@ By repeating the above simple structure 14 times, we can control stable diffusio
 - Stable Diffusion: [paper](https://arxiv.org/pdf/2112.10752.pdf) [github](https://github.com/Stability-AI/StableDiffusion)
 - Generative model SD:[github](https://github.com/Stability-AI/generative-models)
 - Stable Diffusion WebUI: [github](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-
+- DALL-E (Open AI): [tutorial](https://openai.com/dall-e-2)
 - F222
 - DreamShaper
 - Inkpunk Diffusion
