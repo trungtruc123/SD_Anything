@@ -1,4 +1,5 @@
 # Control-StableDiffusion
+# <img src="https://github.com/trungtruc123/Control-StableDiffusion/blob/develop/images/th.jpeg"/>
 # <img src="https://github.com/trungtruc123/Control-StableDiffusion/blob/develop/images/logo.png"/>
 # <img src="https://github.com/trungtruc123/Control-StableDiffusion/blob/develop/images/output_show.jpg"/>
 
