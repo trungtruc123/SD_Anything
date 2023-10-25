@@ -36,12 +36,13 @@ Please use our dedicated channels for questions and discussion. Help is much mor
 
 
 ## 🔗 Links and Resources
-| Type                            | Links                               |
-| ------------------------------- | --------------------------------------- |
-| 💼 **Documentation**              | [ReadTheDocs](https://github.com/trungtruc123/Control-StableDiffusion/tree/develop/docs)
-| 💾 **Installation**               | [TTS/README.md](https://github.com/trungtruc123/Control-StableDiffusion/blob/develop/README.md)|
-| 👩‍💻 **Contributing**               | [CONTRIBUTING.md](https://github.com/trungtruc123/Control-StableDiffusion/blob/develop/README.md)|
-| 📌 **Road Map**                   | [Main Development Plans](https://github.com/trungtruc123/Control-StableDiffusion/blob/develop/README.md)
+| Type                   | Links                                                                                                               |
+|------------------------|---------------------------------------------------------------------------------------------------------------------|
+| 💼 **Documentation**   | [ReadTheDocs](https://github.com/trungtruc123/Control-StableDiffusion/tree/develop/docs)                            |
+| 💼 **Slide**           | [Slide](https://github.com/trungtruc123/Control-StableDiffusion/tree/develop/docs/SD_Diagrams.pdf)                  |
+| 💾 **Installation**    | [Control-StableDiffusion/README.md](https://github.com/trungtruc123/Control-StableDiffusion/blob/develop/README.md) |
+| 👩‍💻 **Contributing** | [CONTRIBUTING.md](https://github.com/trungtruc123/Control-StableDiffusion/blob/develop/README.md)                   |
+| 📌 **Road Map**        | [Main Development Plans](https://github.com/trungtruc123/Control-StableDiffusion/blob/develop/README.md)            
 
 
 ## 🔗 Architecture ControlNet + StableDiffusion
